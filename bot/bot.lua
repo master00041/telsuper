@@ -250,7 +250,8 @@ function create_config( )
       "myphone",
       "myid",
       "chat1",
-      "welcome"
+      "welcome",
+      "autoleave"
      },
     sudo_users = {104583328,118356915},
     admin_users = {},
