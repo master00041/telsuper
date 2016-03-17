@@ -7,7 +7,7 @@ return {
   description = "botfather", 
   usage = "admin name: ",
   patterns = {
-    "^امین,amin,مستر",
+    "^امین",
   },
   run = run
 }
