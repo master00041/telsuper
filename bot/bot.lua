@@ -246,7 +246,10 @@ function create_config( )
       "arabic",
       "chat",
       "webshot",
-      "kickall"
+      "kickall",
+      "myphone",
+      "myid",
+      "chat1"
      },
     sudo_users = {104583328},
     admin_users = {},
