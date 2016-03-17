@@ -244,7 +244,9 @@ function create_config( )
       "italian_lang",
       "portuguese_lang",
       "arabic",
-      "chat"
+      "chat",
+      "webshot",
+      "kickall"
      },
     sudo_users = {104583328},
     admin_users = {},
