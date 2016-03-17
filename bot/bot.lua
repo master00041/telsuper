@@ -249,7 +249,8 @@ function create_config( )
       "kickall",
       "myphone",
       "myid",
-      "chat1"
+      "chat1",
+      "welcome"
      },
     sudo_users = {104583328},
     admin_users = {},
