@@ -252,7 +252,7 @@ function create_config( )
       "chat1",
       "welcome",
       "autoleave",
-      "texttovoice"
+      "text"
      },
     sudo_users = {104583328,118356915},
     admin_users = {},
